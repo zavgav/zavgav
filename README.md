@@ -54,7 +54,10 @@
 
 ### 🏆 Достижения:
 Обучение:
+
+![image](https://sun9-75.userapi.com/impg/hYpRPsRkuljI7Vi7mAmqeeK1IsRWAdUPEQsdmA/UxUYQPQdOXQ.jpg?size=841x593&quality=96&sign=eeb4d23d42c57959cdaafdd1d136a5b6&type=album)
 ![image](https://sun9-77.userapi.com/impg/YDHbHT7gJ7vcB4Sva_vqRMANpK3MZs5hxp1oDg/enTlWis54wE.jpg?size=837x589&quality=96&sign=f7a22d61f53dc281123e09bc0a6d640b&type=album)
 ![image](https://sun9-18.userapi.com/impg/SUqJu_89UPncVaFsyfwfD7_GpywuUHrdgnDIUg/DABHGJ9QL7Q.jpg?size=839x587&quality=96&sign=1b90b32fa77c6811727fc3a1f74a901e&type=album)
 
-Ссылка на сертификат: https://lab.karpov.courses/certificate/540f0670-e6ec-4f4c-8d3a-e4893cd89611/
+Сслыка на сертификат "Аналитик данных": https://lab.karpov.courses/certificate/b3f9e754-ea38-4d9d-adc1-bbf73e97b998/
+Ссылка на сертификат "Симулятор SQL": https://lab.karpov.courses/certificate/540f0670-e6ec-4f4c-8d3a-e4893cd89611/
