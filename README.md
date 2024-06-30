@@ -60,4 +60,5 @@
 ![image](https://sun9-18.userapi.com/impg/SUqJu_89UPncVaFsyfwfD7_GpywuUHrdgnDIUg/DABHGJ9QL7Q.jpg?size=839x587&quality=96&sign=1b90b32fa77c6811727fc3a1f74a901e&type=album)
 
 Сслыка на сертификат "Аналитик данных": https://lab.karpov.courses/certificate/b3f9e754-ea38-4d9d-adc1-bbf73e97b998/
+
 Ссылка на сертификат "Симулятор SQL": https://lab.karpov.courses/certificate/540f0670-e6ec-4f4c-8d3a-e4893cd89611/
